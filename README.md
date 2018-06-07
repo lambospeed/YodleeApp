@@ -21,6 +21,3 @@ Version used to build this project is Miscrosoft Visual Studio 2015.
 ### demo
 This folder contains a demo video of the App carrying out its function. To watch the video, download the video on to your system
 and open it using any Video Player.
-
-### Questions?
-Feel free to contact me at priyanka.satish01@gmail.com for any questions regarding the App.
